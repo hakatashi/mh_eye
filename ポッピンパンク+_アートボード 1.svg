@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="a" data-name="名称未設定グラデーション 17" x1="956.47" y1="955.35" x2="1037.28" y2="1046.93" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.47" stop-color="#818181"/>
+      <stop offset="0.84" stop-color="#242424"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="b" data-name="名称未設定グラデーション 2" x1="201.34" y1="265.26" x2="833.7" y2="796.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.01" stop-color="#f6f6f6"/>
+      <stop offset="0.05" stop-color="#c8c8c8"/>
+      <stop offset="0.09" stop-color="#9d9d9d"/>
+      <stop offset="0.14" stop-color="#777"/>
+      <stop offset="0.2" stop-color="#575757"/>
+      <stop offset="0.25" stop-color="#3b3b3b"/>
+      <stop offset="0.32" stop-color="#252525"/>
+      <stop offset="0.4" stop-color="#141414"/>
+      <stop offset="0.49" stop-color="#090909"/>
+      <stop offset="0.63" stop-color="#020202"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="c" x1="170.28" y1="177.47" x2="264.56" y2="270.4" xlink:href="#a"/>
+  </defs>
+  <title>ポッピンパンク+</title>
+  <g style="isolation: isolate">
+    <g>
+      <path d="M898.9,1131.42c-145.93-81.82-130-135.9-15.7-239.54C1020.6,767.31,1058,745.1,1128.91,911.23c6.72,15.76-4,30.89-14.56,42.39-62.68,68.09-102.95,109.93-171.74,170.13C930.66,1134.21,913.93,1139.85,898.9,1131.42Z" style="fill: #1f1413;stroke: #111;stroke-miterlimit: 10;stroke-width: 10px"/>
+      <path d="M815,1069.9c17.07,19.5,44.61,39.51,83.87,61.52,15,8.43,31.76,2.79,43.71-7.67,68.79-60.2,109.06-102,171.74-170.13,10.58-11.5,21.28-26.63,14.56-42.38-19.35-45.35-36.2-76.66-53.28-95.69C1011,925.53,927.47,1009.94,815,1069.9Z" style="stroke: #000;stroke-miterlimit: 10;stroke-width: 10px;opacity: 0.21;mix-blend-mode: screen;fill: url(#a)"/>
+      <path d="M305.37,76.44c145.93,81.82,130,135.9,15.71,239.54C183.68,440.55,146.25,462.76,75.37,296.63c-6.72-15.75,4-30.89,14.56-42.39,62.68-68.09,103-109.93,171.73-170.13C273.62,73.65,290.35,68,305.37,76.44Z" style="fill: #1e1413;stroke: #111;stroke-miterlimit: 10;stroke-width: 10px"/>
+      <circle cx="600.24" cy="600.44" r="454.95" style="fill: #302833;stroke: #111;stroke-miterlimit: 10;stroke-width: 10px"/>
+      <circle cx="600.24" cy="600.44" r="454.95" style="stroke: #111;stroke-miterlimit: 10;stroke-width: 10px;opacity: 0.16;mix-blend-mode: screen;fill: url(#b)"/>
+      <path d="M389.24,138c-17.06-19.5-44.61-39.51-83.87-61.52-15-8.43-31.75-2.79-43.71,7.67-68.78,60.2-109,102-171.73,170.13-10.59,11.5-21.28,26.64-14.56,42.39,19.34,45.34,36.2,76.65,53.27,95.68C193.28,282.33,276.8,197.92,389.24,138Z" style="stroke: #000;stroke-miterlimit: 10;stroke-width: 10px;opacity: 0.4;mix-blend-mode: screen;fill: url(#c)"/>
+      <circle cx="600.24" cy="600.44" r="399.85" style="fill: #f95cd6;stroke: #111;stroke-miterlimit: 10;stroke-width: 10px"/>
+      <path d="M607.34,924.76s172.23-145.3,258.25-328.62c28.72-61.22,40.07-199.07-72.55-230-71-19.51-131.27,40.07-188.59,118.91-47-58.17-96.56-140.28-176.32-123.72C321.8,383.39,299.57,502.51,343.8,609.43,406.05,760,607.34,924.76,607.34,924.76Z" style="fill: #bd0306;stroke: #6e0103;stroke-miterlimit: 10;stroke-width: 10px"/>
+      <path d="M607.34,924.76s172.23-145.3,258.25-328.62c28.72-61.22,40.07-199.07-72.55-230-71-19.51-131.27,40.07-188.59,118.91-47-58.17-96.56-140.28-176.32-123.72C321.8,383.39,299.57,502.51,343.8,609.43,406.05,760,607.34,924.76,607.34,924.76Z" style="fill: #bd0306;stroke: #6e0103;stroke-miterlimit: 10;stroke-width: 10px"/>
+      <path d="M636.84,888.74h0ZM606.61,862.5C550,811.75,430,696,386.82,591.64c-22-53.21-23.88-108.54-4.89-144.4,11.52-21.76,29.73-34.95,55.67-40.33a54,54,0,0,1,11.08-1.2c35.45,0,68.5,42.82,100.47,84.23,6.23,8.07,12.67,16.41,19.07,24.34l38.17,47.28,35.72-49.15C674.4,468,722.36,409,766,409A55.06,55.06,0,0,1,780.71,411c23.09,6.35,38.22,18.77,47.59,39.1,18.58,40.32,8.35,98.1-4.86,126.24-41.76,89-106.07,169-152.68,220.41C646,824.15,623.37,846.59,606.61,862.5Z" style="fill: none;stroke: #ff82cf;stroke-miterlimit: 10;stroke-width: 14px"/>
+    </g>
+  </g>
+</svg>
